@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Project](https://github.com/nitin-pandita/Virtual_Assistant_Progran.git)**
 
-- 🌱 My website: **[Website](https://xxmostafaahmed.github.io/website/)**
+- 🌱 My website: **[Website](https://xxmostafaahmed.github.io/my-website/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Machine learning**
 
