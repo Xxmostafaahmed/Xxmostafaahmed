@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Project](https://github.com/nitin-pandita/Virtual_Assistant_Progran.git)**
+- 🔭 I’m currently working on **[Project])**
 
 - 🌱 My website: **[Website](https://xxmostafaahmed.github.io/my-website/)**
 
