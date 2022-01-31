@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/nitin-pandita/Projects.git)**
 
-- 📫 How to reach me **kartikpandita121@gmail.com**
+- 📫 How to reach me **myselfmostafaahmed@gmail.com**
 
 - ⚡ Fun fact **I like to work with travel**
 
@@ -26,19 +26,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfmostafaahmed&show_icons=true&locale=en&layout=compact" alt="myselfmostafaahmed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myselfmostafaahmed&show_icons=true&locale=en" alt="myselfmostafaahmed" /></p>
-
-
-
-
-
-
-
 ## 🔎 Connect with me:
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100036487124669" height="30" width="40" /></a>
-<a href="https://www.instagram.com/invites/contact/?i=6y7s4cg7xqfm&utm_content=ee45use" height="30" width="40" /></a>
-<a href="https://github.com/Xxmostafaahmed/website" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100036487124669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100036487124669" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=6y7s4cg7xqfm&utm_content=ee45use" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=6y7s4cg7xqfm&utm_content=ee45use" height="30" width="40" /></a>
 </p>
+
+
 
 ## 📊 My Github Stats
 
@@ -47,7 +41,7 @@
 <p align="left"> <br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-pandita" alt="nitin-pandita" /></br></a> </p>
 
 
-<p><br><br><br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-pandita&show_icons=true&locale=en&layout=compact" alt="nitin-pandita" /></br></br></br></br></p>
+<p><br><br><br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-pandita&show_icons=true&locale=en&layout=compact" alt="Mostafa Ahmed" /></br></br></br></br></p>
 
 <p><br><br>&nbsp;<img align="lefr" src="https://github-readme-stats.vercel.app/api?username=nitin-pandita&show_icons=true&locale=en" alt="nitin-pandita" /></br></br></p>
 
