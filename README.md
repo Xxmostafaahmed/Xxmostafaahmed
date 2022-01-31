@@ -31,18 +31,3 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100036487124669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100036487124669" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=6y7s4cg7xqfm&utm_content=ee45use" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=6y7s4cg7xqfm&utm_content=ee45use" height="30" width="40" /></a>
 </p>
-
-
-
-## 📊 My Github Stats
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xxmostafaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa Ahmed" /> </p>
-
-<p align="left"> <br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xxmostafaahmed" alt="Mostafa Ahmed" /></br></a> </p>
-
-
-<p><br><br><br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xxmostafaahmed&show_icons=true&locale=en&layout=compact" alt="Mostafa Ahmed" /></br></br></br></br></p>
-
-<p><br><br>&nbsp;<img align="lefr" src="https://github-readme-stats.vercel.app/api?username=Xxmostafaahmed&show_icons=true&locale=en" alt="Mostafa Ahmed" /></br></br></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xxmostafaahmed&" alt="Mostafa Ahmed" /></p>
