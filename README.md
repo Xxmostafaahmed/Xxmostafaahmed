@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mostafa Ahmed</h1>
-<h3 align="center">I'm a CSE student.</h3>
+<h3 align="center">A passionate developer from Indiai.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -35,8 +35,9 @@
 
 ## 🔎 Connect with me:
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100036487124669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100036487124669" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=6y7s4cg7xqfm&utm_content=ee45use" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=6y7s4cg7xqfm&utm_content=ee45use" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100036487124669" height="30" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=6y7s4cg7xqfm&utm_content=ee45use" height="30" width="40" /></a>
+<a href="https://github.com/Xxmostafaahmed/website" height="30" width="40" /></a>
 </p>
 
 ## 📊 My Github Stats
