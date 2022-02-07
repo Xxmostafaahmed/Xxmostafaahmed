@@ -9,9 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xxmostafaahmed/website](https://github.com/Xxmostafaahmed/website)
-
-- My Projects [https://github.com/Xxmostafaahmed/website](https://github.com/Xxmostafaahmed/website)
+- 👨‍💻 All of my projects are available at My Project [https://github.com/Xxmostafaahmed/website](https://github.com/Xxmostafaahmed/website)
 
 - 💬 Ask me about **Android**
 
