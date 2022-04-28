@@ -11,13 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfmostafaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="myselfmostafaahmed" /> </p>
 
-- 🔭 I’m currently working on [[Project]](https://github.com/Xxmostafaahmed/website)
+- 🔭 I’m currently working on [[Project]](Ecommerce)
 
 - 🌱 I’m currently learning **React and Javascript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🌱My Website [Website](https://xxmostafaahmed.github.io/website/)
+- 🌱My Website [Website](https://github.com/Xxmostafaahmed)
 
 - 👨‍💻 All of my projects are available at My  [Project]( https://xxmostafaahmed.github.io/Portfolio/)
 
