@@ -17,9 +17,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🌱My Website [Website](https://github.com/Xxmostafaahmed)
+- 🌱My Website [Website](https://dl-lottery.com/)
 
-- 👨‍💻 All of my projects are available at My  [Project]( https://xxmostafaahmed.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at My  [Project]( https://dl-lottery.com/)
 
 - 💬 Ask me about **Android**
 
